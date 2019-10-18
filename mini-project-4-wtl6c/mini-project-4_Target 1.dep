@@ -1,0 +1,60 @@
+Dependencies for Project 'mini-project-4', Target 'Target 1': (DO NOT MODIFY !)
+F (.\FIFO.c)(0x5BDF62C9)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\fifo.o --omf_browse .\fifo.crf --depend .\fifo.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (FIFO.h)(0x5BF06366)
+I (os.h)(0x5BDF62C9)
+F (.\FIFO.h)(0x5BF06366)()
+F (.\joystick.c)(0x5BDF62C9)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\joystick.o --omf_browse .\joystick.crf --depend .\joystick.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (joystick.h)(0x5BDF62C9)
+I (tm4c123gh6pm.h)(0x5BDF62C9)
+F (.\joystick.h)(0x5BDF62C9)()
+F (.\LCD.c)(0x5BDF62C9)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (LCD.h)(0x5BDF62C9)
+I (os.h)(0x5BDF62C9)
+I (tm4c123gh6pm.h)(0x5BDF62C9)
+F (.\LCD.h)(0x5BDF62C9)()
+F (.\os.c)(0x5BF09D40)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\os.o --omf_browse .\os.crf --depend .\os.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (os.h)(0x5BDF62C9)
+I (PLL.h)(0x5BDF62C9)
+I (tm4c123gh6pm.h)(0x5BDF62C9)
+I (LCD.h)(0x5BDF62C9)
+I (UART.h)(0x5BDF62C9)
+I (joystick.h)(0x5BDF62C9)
+F (.\os.h)(0x5BDF62C9)()
+F (.\osasm.s)(0x5BDF62C9)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\osasm.lst --xref -o .\osasm.o --depend .\osasm.d)
+F (.\PLL.c)(0x5BDF62C9)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (PLL.h)(0x5BDF62C9)
+I (tm4c123gh6pm.h)(0x5BDF62C9)
+F (.\PLL.h)(0x5BDF62C9)()
+F (.\PORTE.c)(0x5BDF62C9)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\porte.o --omf_browse .\porte.crf --depend .\porte.d)
+I (PORTE.h)(0x5BDF62C9)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (tm4c123gh6pm.h)(0x5BDF62C9)
+F (.\PORTE.h)(0x5BDF62C9)()
+F (.\startup.s)(0x5BDF62C9)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\tm4c123gh6pm.h)(0x5BDF62C9)()
+F (.\UART.c)(0x5BDF62C9)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (tm4c123gh6pm.h)(0x5BDF62C9)
+I (UART_FIFO.h)(0x5BDF62C9)
+I (UART.h)(0x5BDF62C9)
+F (.\UART.h)(0x5BDF62C9)()
+F (.\UART_FIFO.c)(0x5BDF62C9)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\uart_fifo.o --omf_browse .\uart_fifo.crf --depend .\uart_fifo.d)
+I (os.h)(0x5BDF62C9)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (UART_FIFO.h)(0x5BDF62C9)
+F (.\UART_FIFO.h)(0x5BDF62C9)()
+F (.\Main.c)(0x5BF0711C)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (OS.h)(0x5BDF62C9)
+I (tm4c123gh6pm.h)(0x5BDF62C9)
+I (LCD.h)(0x5BDF62C9)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C86004)
+I (UART.h)(0x5BDF62C9)
+I (FIFO.h)(0x5BF06366)
+I (joystick.h)(0x5BDF62C9)
+I (PORTE.h)(0x5BDF62C9)
